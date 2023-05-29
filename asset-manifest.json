@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Movie-Website/static/css/main.0a27badf.css",
+    "main.js": "/Movie-Website/static/js/main.babf4240.js",
+    "static/media/loadinger1.gif": "/Movie-Website/static/media/loadinger1.11e4c218e46c55a503e6.gif",
+    "index.html": "/Movie-Website/index.html",
+    "main.0a27badf.css.map": "/Movie-Website/static/css/main.0a27badf.css.map",
+    "main.babf4240.js.map": "/Movie-Website/static/js/main.babf4240.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a27badf.css",
+    "static/js/main.babf4240.js"
+  ]
+}
